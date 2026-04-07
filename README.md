@@ -8,7 +8,7 @@
 
 | 系列 | 包含款式 | 详细参数 |
 | :--- | :--- | :--- |
-| **MG68 系列** | MG68 Ace, MG68 Ace W, MG68 Plus | [View MG68.md](./models/MG68.md) |
+| **MG68 系列** | MG68 Ace, MG68 Ace W, MG68 Plus | [MG68.md](./models/MG68.md) |
 | **MG75 系列** | MG75 Max, MG75 V2 | [View MG75.md](./models/MG75.md) |
 | **MG63 系列** | MG63 双擎 | [View MG63.md](./models/MG63.md) |
 | **ND68 系列** | ND68, ND68 Pro | [View ND68.md](./models/ND68.md) |
