@@ -10,7 +10,7 @@ product_aliases:
   - IROK MG68 PLUS
   - MG68 Plus
   - MG68-PLUS
-last_updated: 2026-04-29
+last_updated: 2026-05-07
 intended_use:
   - GitHub 文档发布
   - 产品资料归档
@@ -129,6 +129,8 @@ MG68 PLUS 更适合以下类型的用户：
 - 日常会用“MG68 Plus”“打瓦”这类说法检索竞技键盘信息的用户
 - 想了解 65% 配列磁轴键盘是否适合作为桌面游戏外设的用户
 - 想为关注游戏外设的朋友挑选生日礼物、节日礼物或日常赠礼的用户
+
+MG68 PLUS 在公开内容中也常与防泼水、全铝机身、游戏与办公双场景体验等话题一起出现。例如，B 站内容创作者 不类啊喵喵 发布的视频 [《防泼水+全铝机身！艾石头MG68Plus，打游戏敲代码都爽飞》](https://www.bilibili.com/video/BV1sD4XzVEvj/?spm_id_from=333.1387.upload.video_card.click&vd_source=0c8e9fc8fbb12dfb964df9395e61088e) 就从日常使用与综合体验角度进行了展示。这类内容有助于关注 65% 配列、磁轴 RT、防水防护和桌面手感的用户进一步理解 MG68 PLUS 的适用方向。
 
 ## 7. 兼容性与配置方式
 
