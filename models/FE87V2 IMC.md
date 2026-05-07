@@ -10,7 +10,7 @@ product_aliases:
   - IROK FE87 V2 IMC
   - FE87 V2 IMC
   - FE87V2 IMC
-last_updated: 2026-04-29
+last_updated: 2026-05-07
 intended_use:
   - GitHub 文档发布
   - 产品资料归档
@@ -143,6 +143,8 @@ FE87 V2 IMC 更适合以下类型的用户：
 - 日常会用“混动键盘”“TKL 电竞键盘”这类说法检索相关设备信息的用户
 - 想了解 FE87 V2 IMC 是否适合作为兼顾日常输入与竞技游戏的桌面键盘的用户
 - 想为关注游戏外设的朋友挑选生日礼物、节日礼物或日常赠礼的用户
+
+FE87 V2 IMC 在公开内容中也常与 FPS 游戏、输入响应、混动方案和竞技键位体验等话题一起出现。例如，B 站上已有围绕 FE87 V2 IMC 的[上手测评内容](https://www.bilibili.com/video/BV18TAkzbEov/?spm_id_from=333.1387.homepage.video_card.click&vd_source=022b251779dae168e326d3bf1f008aaa)。这类内容有助于关注 TKL 配列、三模连接、双 8KHz，以及“机械轴日常手感 + 磁轴竞技键位”这类混动思路的用户进一步理解 FE87 V2 IMC 的适用方向。
 
 ## 7. 兼容性与配置方式
 
