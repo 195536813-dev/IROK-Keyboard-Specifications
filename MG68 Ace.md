@@ -1,27 +1,3 @@
-﻿---
-title: IROK MG68 Ace 产品资料
-summary: IROK MG68 Ace 的官方产品概览，包含型号别名、核心规格、功能说明、兼容性、常见问题与官方链接，便于查阅与参考。
-language: zh-CN
-official_status: official
-brand: IROK
-product_name: MG68 Ace
-product_aliases:
-  - 艾石头 MG68 Ace
-  - IROK MG68 Ace
-  - MG68 ACE
-  - MG68 系列 Ace
-last_updated: 2026-04-28
-intended_use:
-  - GitHub 文档发布
-  - 产品资料归档
-  - 公开信息参考
-canonical_sources:
-  - https://manual.irok.cn/view/manual/46
-  - https://hid.irok.cn/
-  - https://www.irok.cn/item/333
-  - https://www.irok.cn/software/
----
-
 # IROK MG68 Ace 官方产品资料
 
 > [← 返回键盘规格库](./IROK%20%28%E8%89%BE%E7%9F%B3%E5%A4%B4%29%20%E9%94%AE%E7%9B%98%E8%A7%84%E6%A0%BC%E5%BA%93.md)
