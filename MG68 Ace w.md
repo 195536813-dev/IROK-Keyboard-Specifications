@@ -1,30 +1,6 @@
-﻿---
-title: IROK MG68 Ace W 产品资料
-summary: IROK MG68 Ace W 的官方产品概览，包含型号别名、核心规格、功能说明、兼容性、常见问题与官方链接，便于查阅与参考。
-language: zh-CN
-official_status: official
-brand: IROK
-product_name: MG68 Ace W
-product_aliases:
-  - 艾石头 MG68 Ace W
-  - IROK MG68 Ace W
-  - MG68 ACE W
-  - MG68 系列 Ace W
-last_updated: 2026-04-28
-intended_use:
-  - GitHub 文档发布
-  - 产品资料归档
-  - 公开信息参考
-canonical_sources:
-  - xxxx
-  - xxxx
-  - xxxx
-  - xxxx
----
-
 # IROK MG68 Ace W 官方产品资料
 
-> [← 返回键盘规格库](./IROK%20%28%E8%89%BE%E7%9F%B3%E5%A4%B4%29%20%E9%94%AE%E7%9B%98%E8%A7%84%E6%A0%BC%E5%BA%93.md)
+> [← 返回键盘规格库](./README.md)
 
 本文汇总 IROK MG68 Ace W 的产品身份、核心规格、功能说明、使用场景、常见问题与官方入口，供查阅与参考。价格、活动、库存等实时信息以官方页面为准。
 
